@@ -1,100 +1,64 @@
-# 👋 Hi there, I'm Nazarii Skibytskyi
+# Hi, I'm Nazarii Skibytskyi
 
-**Frontend Developer**
+**Frontend Engineer | React, TypeScript, Next.js**
 
-I’m a Frontend Developer with 2+ years of experience building modern web applications using React, Next.js, and TypeScript.
+I'm a Frontend Engineer based in Lviv, Ukraine, with nearly 3 years of commercial experience building SaaS products, trading platforms, CRM systems, analytics dashboards, and internal developer tools.
 
-I focus on creating clean, responsive, and user-friendly interfaces, and I’m comfortable working with both UI and business logic. I’ve worked on dashboards, CRM systems, SaaS products, and other data-driven applications.
+My primary focus is React and TypeScript. I also contribute to full-stack delivery with NestJS and REST APIs, build developer tooling for VS Code, Cursor, and Claude Code, and work with cross-platform MDM solutions for Windows and macOS.
 
----
+Most of my commercial work is hosted in private company repositories.
 
-## 🛠️ Tech Stack
+## Core Technologies
 
 **Languages**  
-TypeScript, JavaScript (ES6+), HTML, CSS  
+TypeScript, JavaScript, HTML, CSS, SCSS
 
 **Frontend**  
-React 18, Next.js (App Router), Vite, React Router v6  
+React, Next.js, Vue.js, Vite, React Router, React Hook Form, Zod
 
-**State Management**  
-Zustand, TanStack Query, Redux Toolkit  
+**State Management & Data**  
+Redux Toolkit, Zustand, TanStack Query, Axios
 
 **UI & Styling**  
-Tailwind CSS, Material UI, Radix UI, shadcn/ui, AG Grid  
+Tailwind CSS, CSS Modules, Material UI, Radix UI, shadcn/ui, AG Grid
 
-**API & Integrations**  
-REST APIs, Meta/Facebook Graph API, NextAuth.js (Google Provider)  
+**Backend & APIs**  
+Node.js, Express.js, NestJS, REST APIs, JWT, OAuth, Meta Graph API
 
-**Backend & Tools**  
-Git, MongoDB, Cloudinary, Flask, MySQL  
+**Testing**  
+React Testing Library, Playwright, end-to-end testing
 
----
+**Developer Productivity & AI Tools**  
+GitHub Copilot, Cursor, Claude Code, VS Code/Cursor/Claude Code extensions
 
-## 🚀 Work Experience
+**MDM & Platforms**  
+Windows, macOS, Iru, Kandji, Microsoft Intune, Jamf Cloud
 
-### Frontend Developer | Appexoft  
-**December 2024 – Present**
+## Selected Experience
 
-- Developed web applications using React and Next.js with Tailwind CSS  
-- Built and improved a CRM system with complex filtering, sorting, and chart visualizations  
-- Contributed to a security-focused project (NDA), working on accessible UI with Material UI  
-- Maintained a Vue.js admin panel and implemented internationalization (i18n)  
-- Worked with both UI and business logic, collaborating with designers and product team  
+- Developed real-time trading dashboards and portfolio, market, and activity modules.
+- Built automotive CRM filtering, sorting, and data-visualization features.
+- Delivered multi-tenant workforce scheduling, time tracking, leave management, kiosk mode, and AI-assisted scheduling workflows.
+- Built an advertising management dashboard integrated with the Meta Graph API and reduced data-loading time by 50%.
+- Maintained extensions for VS Code, Cursor, and Claude Code CLI and reduced application power consumption by 50% on macOS.
+- Integrated and tested cross-platform MDM scripts for Windows and macOS.
+- Maintained a Vue.js admin panel, implemented i18n, and contributed to full-stack delivery with React and NestJS.
 
----
+## Selected Public Projects
 
-### Frontend Developer | Affinity Intelligence  
-**September 2023 – May 2024**
+### [Property Pulse](https://github.com/nezeracuk/property-web-app)
 
-- Built UI components using React and SCSS  
-- Contributed to a SPA developed from scratch as part of a small team  
-- Participated in Agile processes (planning, retrospectives, team discussions)  
-- Improved frontend structure and UI consistency  
+A full-stack property platform built with Next.js, MongoDB, NextAuth.js, Cloudinary, and Tailwind CSS. Includes authentication, property management, search, bookmarks, messaging, and image uploads.
 
----
+### [RetroTop](https://github.com/nezeracuk/retro-top)
 
-## 📂 Key Projects
+A React and Express.js e-commerce application with Redux Toolkit, JWT authentication, protected routes, filtering, cart management, and checkout flows.
 
-### 🔹 AdsRoid  
-Ads automation system using Meta (Facebook) API  
+### [Athlete Training Management System](https://github.com/nezeracuk/athlete-training-management-system)
 
-- Built a dashboard with campaign/adset/ad views  
-- Implemented filters, tables (AG Grid), and KPI tracking (CPC, CPM, etc.)  
-- Added media previews and responsive UI  
-- Integrated Meta Graph API with error handling  
+A Flask and MySQL REST API for managing athletes, schedules, nutrition, staff, and competitions, with SQLAlchemy, Swagger documentation, AWS deployment, and GitHub Actions.
 
----
+## Contact
 
-### 🔹 CrewHR  
-Workforce scheduling SaaS platform  
-
-- Built complex scheduling UI (drag & drop, real-time calculations)  
-- Implemented role-based dashboards (admin / manager / employee)  
-- Added time tracking and leave management features  
-- Worked on flows for AI-assisted schedule generation  
-
----
-
-### 🔹 PropertyPulse  
-Real estate platform (Next.js + Tailwind)  
-
-- Implemented authentication (NextAuth, Google)  
-- Built CRUD functionality using Server Actions  
-- Added real-time messaging between users  
-- Implemented filtering, bookmarks, and profile management  
-
----
-
-### 🔹 Athlete Training Management System  
-
-- Built backend using Flask + MySQL  
-- Implemented stored procedures and triggers  
-- Designed system for managing athletes, schedules, and data  
-
----
-
-## 📫 Contact
-
-- Email: skibickignazar@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/nezerino  
----
+- [LinkedIn](https://www.linkedin.com/in/nezerino)
+- [Email](mailto:skibickignazar@gmail.com)
